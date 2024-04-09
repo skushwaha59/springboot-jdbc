@@ -71,34 +71,6 @@ Below are the list of question which we have solved.
 55. How many employees have had a salary decrease?
 56. List the employees who have had a salary decrease.
 57. Who is the employee with the lowest current salary?
-58. How many employees have had a salary increase every year?
-59. List the employees who have never been managers.
-60. Who is the highest-paid employee currently?
-61. How many employees have a salary less than $50,000?
-62. List the employees who were hired before their birth date.
-63. Who are the employees who have never changed job titles?
-64. How many employees have the job title 'Engineer'?
-65. List the employees who have had the same job title for more than 10 years.
-66. Who is the employee with the longest job title?
-67. How many employees have had a salary increase every year?
-68. List the employees who have had more than 5 job titles.
-69. Who is the employee with the highest number of job title changes?
-70. How many employees have had a salary decrease?
-71. List the employees who have had a salary decrease.
-72. Who is the employee with the lowest current salary?
-73. How many employees have had a salary increase every year?
-74. List the employees who have never been managers.
-75. Who is the highest-paid employee currently?
-76. How many employees have a salary less than $50,000?
-77. List the employees who were hired before their birth date.
-78. Who are the employees who have never changed job titles?
-79. How many employees have the job title 'Engineer'?
-80. List the employees who have had the same job title for more than 10 years.
-81. Who is the employee with the longest job title?
-82. How many employees have had a salary increase every year?
-83. List the employees who have had more than 5 job titles.
-84. Who is the employee with the highest number of job title changes?
-85. How many employees have had a salary decrease?
-86. List the employees who have had a salary decrease.
-87. Who is the employee with the lowest current salary?
-88. How many employees have had a salary increase every year?
+58. How many employees have the job title 'Engineer'?
+59. List the employees who have had the same job title for more than 10 years.
+60. Who is the employee with the longest job title?
