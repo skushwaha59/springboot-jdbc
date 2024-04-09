@@ -31,4 +31,22 @@ public class SpringbootJdbcServiceImpl implements SpringbootJdbcService {
 		return new ResponseEntity<Employees>(employees,HttpStatus.OK);
 	}
 
+	@Override
+	public ResponseEntity<Employees> updateEmployeeById(Employees employees) {
+		Employees empl =  springbootJdbcDao.updateEmployeeById(employees);
+		return new ResponseEntity<Employees>(empl,HttpStatus.OK);
+	}
+
+	@Override
+	public ResponseEntity<Integer> deleteEmployeeById(int id) {
+		int result = springbootJdbcDao.deleteEmployeeById(id);
+		return new ResponseEntity<Integer>(result,HttpStatus.OK);
+	}
+
+	@Override
+	public ResponseEntity<Employees> createEmployee(Employees employees) {
+		Employees empl =  springbootJdbcDao.createEmployee(employees);
+		return new ResponseEntity<Employees>(empl,HttpStatus.OK);
+	}
+
 }

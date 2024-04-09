@@ -10,4 +10,10 @@ public interface SpringbootJdbcDao {
 
 	Employees getEmployeeById(int id);
 
+	Employees updateEmployeeById(Employees employees);
+
+	int deleteEmployeeById(int id);
+
+	Employees createEmployee(Employees employees);
+
 }

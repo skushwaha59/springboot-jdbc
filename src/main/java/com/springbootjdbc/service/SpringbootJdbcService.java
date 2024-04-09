@@ -12,4 +12,10 @@ public interface SpringbootJdbcService {
 
 	ResponseEntity<Employees> getEmployeeById(int id);
 
+	ResponseEntity<Employees> updateEmployeeById(Employees employees);
+
+	ResponseEntity<Integer> deleteEmployeeById(int id);
+
+	ResponseEntity<Employees> createEmployee(Employees employees);
+
 }
